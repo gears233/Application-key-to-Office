@@ -1,37 +1,33 @@
-# Something about SpaceFn
-- [The SpaceFN layout: trying to end keyboard inflation](https://geekhack.org/index.php?topic=51069.0)  
-- [AutoHotKey实现SpaceFn](https://www.oyohyee.com/post/Note/spacefn/)
+# Something about this
+
+- [AutoHotKey??????Office??????](https://refun.eu.org/2019/menu.html)
 
 |Key|Function|
 |:---:|:---:|
-|Quick click `Space`|`Space`|
-|`Space`+`i`|`Up Arrow`|
-|`Space`+`k`|`Down Arrow`|
-|`Space`+`j`|`Left Arrow`|
-|`Space`+`l`|`Right Arrow`|
-|`Space`+`u`|`Home`|
-|`Space`+`o`|`End`|
-|`Space`+`n`|`Page Up`|
-|`Space`+`m`|`Page Down`|
-|`Space`+`Enter`|`Ctrl`+`Enter`|
-|`Space`+`1`|`F1`|
-|`Space`+`2`|`F2`|
-|`Space`+`3`|`F3`|
-|`Space`+`4`|`F4`|
-|`Space`+`5`|`F5`|
-|`Space`+`6`|`F6`|
-|`Space`+`7`|`F7`|
-|`Space`+`8`|`F8`|
-|`Space`+`9`|`F9`|
-|`Space`+`0`|`F10`|
-|`Space`+`-`|`F11`|
-|`Space`+`=`|`F12`|
+|Quick click `APPSKEY`|`APPSKEY`|
+|`APPSKEY`+`W`|`Open Word`|
+|`APPSKEY`+`T`|`Open Teams`|
+|`APPSKEY`+`Y`|`Open Yammer`|
+|`APPSKEY`+`O`|`Open Outlook`|
+|`APPSKEY`+`P`|`Open Power point`|
+|`APPSKEY`+`D`|`Open Onedrive`|
+|`APPSKEY`+`L`|`Open LinkedIn`|
+|`APPSKEY`+`X`|`Open Excel`|
+|`APPSKEY`+`N`|`Open Onenote`|
+|`APPSKEY`+`Space`|`Open Emoji`|
+|`APPSKEY`+`Print Screen`|`Media_Prev`|
+|`APPSKEY`+`Scroll Lock`|`Media_Play_Pause`|
+|`APPSKEY`+`Pause`|`Media_Next`|
+|`APPSKEY`+`PgUp`|`Volume_Up`|
+|`APPSKEY`+`PgDn`|`Volume_Down`|
+|`APPSKEY`+`NumLock`|`Volume_Mute`|
+
 
 # Source Code
-- [Spacefn.ahk](https://github.com/OhYee/SpaceFn/blob/master/Spacefn.ahk)
+- [Application-key-to-Office.ahk](https://github.com/gears233/Application-key-to-Office/blob/master/Application-key-to-Office.ahk)
 
 # Release
-- [Release 0.0.1](https://github.com/OhYee/SpaceFn/releases/tag/0.0.1)
+- [Release 1.0](https://github.com/gears233/Application-key-to-Office/releases/tag/1.0)
 
 # LICENSE
 Do whatever you want.
