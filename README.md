@@ -1,6 +1,5 @@
 # Something about this
-
-- [AutoHotKey??????Office??????](https://refun.eu.org/2019/menu.html)
+- [AutoHotKey让菜单键实现Office专用键的功能以及更多](https://refun.eu.org/2019/menu.html)
 
 |Key|Function|
 |:---:|:---:|
